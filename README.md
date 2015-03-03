@@ -21,4 +21,5 @@ Download the repo, set up a server like MAMP or XAMP and view in the browser.
 ## Credits
 
 This app was developed as a personal project for learning PHP development with Treehouse's PHP development track.
+Sergio Rodríguez, Bogotá, Colombia
 
